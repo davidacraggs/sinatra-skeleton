@@ -1,0 +1,218 @@
+
+/***************
+MAIN HEADLINE
+****************/
+
+
+header {
+
+margin:-15px;
+
+}
+
+
+ header h1 {
+  display:block;
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  font-size:5.5em;
+  background-color:#ECECEC;
+  color:#707070;
+  margin:10px 300px;
+  padding-right:20px;
+}
+
+#layer {
+ 
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  font-size:5.5em;
+  background-color:#fff;
+  color:black;
+  margin:-111px 258px 20px 250px;
+  padding:0 0; 
+ 
+}
+
+  h2 {
+  border:solid;
+  border-radius: 100px 100px;
+  background-color:black;
+  border-color:#A8A8A8;
+  border-width:5px;
+
+  }
+  
+
+
+
+#main-header img {
+  border-radius: 60%;
+  height:175px;
+  width:175px;
+  border:solid;
+  border-color:#A8A8A8;
+  border-width: 5px;
+  padding:3px;
+  margin:15px;
+
+
+}
+
+
+
+/***************
+ASIDE 
+****************/
+
+h4 {
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  font-size:1.2em;
+  background-color:#ccc;
+  color: black;
+
+
+    }
+
+
+aside section h4 {
+  
+  font-size:2.0em;
+  border:solid;
+  border-color:#000;
+  background-color:#ccc;
+  border-radius:100px 100px
+
+} 
+
+
+aside section img{
+
+  padding-bottom: 0px;
+  background-color: #fff;
+  height:200px;
+  width:250px;
+  border:solid;
+  border-color:#000;
+ 
+
+}
+
+
+
+
+aside section {
+
+  background-color:#ECECEC;
+
+
+}
+
+
+
+aside section p, li {
+
+  font-size:1.2em;
+  font-family:'Bangers';
+
+}
+
+aside section p {
+
+
+    font-size:1.5em;
+}
+
+
+
+
+
+
+header, aside, article {
+
+  background-color:#000;
+  text-align: center;
+  padding:10px;
+  margin:10px 4px;
+  border:solid;
+  border-color:black;
+  padding-bottom: 0px;
+  margin-top: 10px;
+
+ 
+}
+
+
+
+ul  {
+    
+  font-size:1.2em;
+  text-align: center;
+  list-style: none;
+  padding:10px;
+}
+
+#blue {
+
+  color:#1F4872;
+  font-size:4em;
+  
+}
+
+
+/***************
+MAIN BODY
+****************/
+
+
+
+
+header img {
+
+  height:400px;
+  width:300px;
+  border:solid;
+  border-color:black;
+
+
+
+}
+
+
+section header {
+
+  margin: 10px 0;
+  padding-bottom:auto;
+  background-color: #ECECEC;
+  border-width: 0.9em;
+
+}
+
+
+ article {
+
+  padding-bottom: 6px;
+  background-color: #fff;
+  
+ }
+
+ section article p {
+
+  color:#000;
+  font-family: 'Oswald', sans-serif;
+  line-height: 1.5em;
+ }
+
+section header h2, h3, h4 {
+  color:black;
+  font-family:'Bangers';
+  background-color: #ECECEC;
+  
+
+}
+
+section h2 {
+
+  border:none;
+}

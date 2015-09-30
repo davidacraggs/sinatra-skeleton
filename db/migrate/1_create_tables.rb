@@ -8,11 +8,7 @@ class CreateTables < ActiveRecord::Migration
       t.timestamps
     end
 
-    create_table :movies do |t|
-      # Your code goes here
-      t.timestamps
-    end
-
   end
 
 end
+

@@ -1,18 +1,30 @@
 # Homepage (Root path)
 get '/' do
-  erb :index
+  erb :profile
 end
 
 get '/login' do
     erb :login
 end
 
-get '/logout'
-    erb :logout
+get '/signup' do
+    erb :signup
 end
 
-get '/' do
+get '/profile' do
   erb :profile
+end
+
+post '/login' do
+    redirect '/'
+end
+
+post '/signup' do
+    redirect '/'
+end
+
+post '/profile' do
+    redirect '/'
 end
 
 
